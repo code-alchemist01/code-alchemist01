@@ -12,12 +12,8 @@ Hi I'm Kutay !<br>🏫 Studied Software Engineering at Firat University of Elazi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=code-alchemist01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-alchemist01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=code-alchemist01&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=code-alchemist01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=code-alchemist01&limit=5&theme=dark&combine_all_yearly_contributions=true)
