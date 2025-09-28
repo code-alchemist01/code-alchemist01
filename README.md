@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hi I'm Kutay !<br>🏫 Studied Software Engineering at Firat University of Elazig, Turkey<br>🧑‍💼 I am a software engineer with experience in cyber security, artificial intelligence, web development, mobile development and game development, and I will share with you both what I have learned and my projects in this field.<br>🌟 Software development and bug fixing is a very enjoyable job for me and one of the most important pastimes in my life.<br>
+Hi, I'm Kutay 👋  
+
+🧑‍💻 Full-time software engineer, part-time bug whisperer.  
+🔒 Experienced in **Cyber Security**, 🤖 **AI/ML**, 🌐 **Web (front+back)**, 📱 **Mobile**, 🎮 **Game Development**.  
+
+⚡ Writing code is fun, but breaking and fixing it is my guilty pleasure.  
+Sometimes I feel like 80% of my job is creating bugs,  
+and the other 80% is fixing them.  
+
+🚀 My focus?  
+- Building **AI-driven applications** that don’t hallucinate (too much)  
+- Designing **scalable cloud systems** that (hopefully) won’t crash at 3AM  
+- Pushing **C/C++ and Python** beyond their comfort zones  
+- And of course… making my README look cooler than my actual code.  
+
+🌟 At the end of the day, software development isn’t just work —  
+it’s my favorite way to break things until they finally work.  
 
 
 ## 🌐 Socials:
