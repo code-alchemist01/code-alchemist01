@@ -115,16 +115,16 @@ and having some fun with the process.
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=code-alchemist01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=code-alchemist01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-alchemist01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=code-alchemist01&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=code-alchemist01&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-alchemist01&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=code-alchemist01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=code-alchemist01&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=code-alchemist01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=code-alchemist01&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=code-alchemist01&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
