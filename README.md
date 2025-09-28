@@ -1,21 +1,19 @@
 # 💫 About Me:
 Hi, I'm Kutay 👋  
 
-🧑‍💻 Full-time software engineer, part-time bug whisperer.  
-🔒 Experienced in **Cyber Security**, 🤖 **AI/ML**, 🌐 **Web (front+back)**, 📱 **Mobile**, 🎮 **Game Development**.  
+I’m a software engineer who enjoys working on **AI/ML, web (front & back), cloud/devops, low-level system, game projects**.  
+Most of the time, I’m either trying to make computers smarter — or just fixing the mess I created yesterday.  
 
-⚡ Writing code is fun, but breaking and fixing it is my guilty pleasure.  
-Sometimes I feel like 80% of my job is creating bugs,  
-and the other 80% is fixing them.  
+💡 I like digging into **cyber security**, experimenting with **C/C++**, and building things that (hopefully) scale without catching fire.  
+Debugging isn’t a chore for me — it’s that weird part of coding I actually look forward to.  
 
-🚀 My focus?  
-- Building **AI-driven applications** that don’t hallucinate (too much)  
-- Designing **scalable cloud systems** that (hopefully) won’t crash at 3AM  
-- Pushing **C/C++ and Python** beyond their comfort zones  
-- And of course… making my README look cooler than my actual code.  
+🚀 These days I’m mostly focused on:  
+- AI applications that feel useful (not just fancy buzzwords)  
+- Cloud systems that don’t wake me up at 3 AM  
+- Writing code that future-me won’t hate (too much)  
 
-🌟 At the end of the day, software development isn’t just work —  
-it’s my favorite way to break things until they finally work.  
+🌟 At the end of the day, I just like turning ideas into working software —  
+and having some fun with the process.  
 
 
 ## 🌐 Socials:
